@@ -55,7 +55,7 @@ Column chart was also used to show the top 5 locations with the highest purchase
 ![](Location.png)
 
 Here is the dashbord 
-![](Shopping dataaaaa(AutoRecovered)(AutoRecovered)dashbord.pdf)
+![](Dashboard.png)
 
 
 
