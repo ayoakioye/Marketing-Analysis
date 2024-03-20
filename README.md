@@ -40,7 +40,7 @@ Dirty Data                 |  Clean Data
  # Data Visualization
 For the Data visualization process
 I used the bar chart to show the distribution of average sales over items, the boots stood out to be the item with the highest average sales, with an average sale of $62.63
-![](items.png)
+![](Items.png)
 
 Pie chart was used to show the male and female percentage purchase, the male had the highest percentage of of 68%.
 ![](piechart.png)
@@ -56,6 +56,13 @@ Column chart was also used to show the top 5 locations with the highest purchase
 
 Here is the dashbord 
 ![](Dashboard.png)
+
+# Recommendation
+1) The Campaing should be focused om more meduim size items.
+2) Emphasis should be placed on clothing items
+3) During the campaing people should be given promo codes, probabaly through raffel draw or the first 20 people to make purchases.
+4) The campaing should also display more male clothings.
+5) The Campaing should be in places like montana, califonia .
 
 
 
