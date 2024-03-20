@@ -20,12 +20,12 @@ Customer ID; The Customer ID was arranged order of number, I just filled the mis
 
 Order ID The blank values were filled, I looked closely at the order and sequencing DC, DD, DY, DM noticed the pattern and filled in the blank values.
 
-Age There were no blank values in the age table but there were  weird ages like 3100,280 (Typographical Error). I removed the zeros.Date
+Age There were no blank values in the age table but there were  weird ages like 3100,280 (Typographical Error).I removed the zeros.
 ![](Age_mistake.png)
 
 Category
 I used the find and replace to remove the white space foot and wear to make footwear.
-Dirty Data      |  Clean Data
-:...............|..............:
-![]()
+Dirty Data                 |  Clean Data
+:.........................:|:..............:
+![](foot_wearmistake.png)    ![](Foot_wearcorrection.png)
 
